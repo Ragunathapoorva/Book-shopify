@@ -30,7 +30,8 @@ This project simulates a simple book shopping interface where users can browse b
 
 
 
-Book-shopify/
+Book-shopify
+
 ├── index.html
 ├── style.css
 ├── script.js
